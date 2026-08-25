@@ -26,7 +26,7 @@ A C++ program that calculates the GPA/CGPA of a student based on course grades a
 
 ---
 
-### Task 2 – Login and Registration System
+### Task 2 – Login and Registration System 
 
 A console-based login and registration system developed in C++. The system allows users to register an account and securely log in using their credentials.
 
