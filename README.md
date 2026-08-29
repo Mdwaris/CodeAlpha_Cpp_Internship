@@ -1,4 +1,3 @@
- <img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/1cc2447a-555e-4a8f-b3cf-3191c1fd91da" />
 # CodeAlpha C++ Internship
 
 This repository contains all the projects and tasks completed during my **C++ Internship at CodeAlpha**.
@@ -95,8 +94,9 @@ CodeAlpha_Cpp_Internship/
 ├── LICENSE
 └── .gitignore
 
-
+```
 ##-> Output Task 1 to Task 04
+````
 ├──Output Task 01 CGPA Calculator
 ├──Output Task 02 Login & Registration
 ├──Output Task 03 Sudoku Solver
