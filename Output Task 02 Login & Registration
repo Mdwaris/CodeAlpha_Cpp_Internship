@@ -1,0 +1,45 @@
+<<<<<////////////// OUTPUT = TASK = 02 /////////>>>>>>>
+
+
+@Mdwaris ➜ /workspaces/CodeAlpha_Cpp_Internship (main) $ g++ 'Task_2_Login_&_Registration.cpp' -o login
+@Mdwaris ➜ /workspaces/CodeAlpha_Cpp_Internship (main) $ ./login
+
+========== LOGIN & REGISTRATION SYSTEM ==========
+1. Register
+2. Login
+3. Exit
+Enter your choice: 1
+
+========== REGISTRATION ==========
+Enter full name: MD. Saquib
+Enter username: Saquib@ahmad
+Enter email: khansaquin11@gmail.com
+Enter mobile number: 7763952737
+Create password: Hard
+Confirm password: Hard
+
+Your OTP is: 512072
+Enter OTP: 512072
+
+Registration successful!
+
+========== LOGIN & REGISTRATION SYSTEM ==========
+1. Register
+2. Login
+3. Exit
+Enter your choice: 2
+
+==========LOGIN========
+Enter username: Saquib@ahmad
+Enter passwrod: Hard
+
+Login successfull!
+Welcome,MD. Saquib!
+
+========== LOGIN & REGISTRATION SYSTEM ==========
+1. Register
+2. Login
+3. Exit
+Enter your choice: 3
+
+Thank you!
