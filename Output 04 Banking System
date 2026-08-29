@@ -1,0 +1,193 @@
+@Mdwaris ➜ /workspaces/CodeAlpha_Cpp_Internship (main) $ ls
+ LICENSE     Task_1_CGPA_Calculator.cpp         Task_3_Sudoku_Solver.cpp    banking   login    task2
+ README.md  'Task_2_Login_&_Registration.cpp'   Task_4_Banking_System.cpp   cgpa      sudoku
+@Mdwaris ➜ /workspaces/CodeAlpha_Cpp_Internship (main) $ g++ Task_4_Banking_System.cpp -o banking
+@Mdwaris ➜ /workspaces/CodeAlpha_Cpp_Internship (main) $ ./banking
+
+========================================
+          BANKING SYSTEM
+========================================
+1. Create Account
+2. Login
+3. Exit
+Enter choice: 1
+
+========== CREATE ACCOUNT ==========
+Enter account holder name: saquib Ahmad
+Create a 4-digit PIN: 9090
+
+Account created successfully!
+Your Account Number is: 1001
+
+========================================
+          BANKING SYSTEM
+========================================
+1. Create Account
+2. Login
+3. Exit
+Enter choice: 1
+
+========== CREATE ACCOUNT ==========
+Enter account holder name: Waris ahmad
+Create a 4-digit PIN: 8080
+
+Account created successfully!
+Your Account Number is: 1002
+
+========================================
+          BANKING SYSTEM
+========================================
+1. Create Account
+2. Login
+3. Exit
+Enter choice: 2
+
+============== LOGIN ==============
+Enter Account Number: 1001
+Enter PIN: 9090
+
+Login successful!
+Welcome, saquib Ahmad!
+
+========================================
+             ACCOUNT MENU
+========================================
+1. Deposit Money
+2. Withdraw Money
+3. Balance Enquiry
+4. Transfer Money
+5. Transaction History
+6. Account Details
+7. Logout
+Enter choice: 1
+
+========== DEPOSIT MONEY ==========
+Enter amount to deposit: 5000 
+
+Deposit successful!
+Deposited: Rs. 5000.00
+New Balance: Rs. 5000.00
+
+========================================
+             ACCOUNT MENU
+========================================
+1. Deposit Money
+2. Withdraw Money
+3. Balance Enquiry
+4. Transfer Money
+5. Transaction History
+6. Account Details
+7. Logout
+Enter choice: 2
+
+========== WITHDRAW MONEY ==========
+Enter amount to withdraw: 1000
+
+Withdrawal successful!
+Withdrawn: Rs. 1000.00
+Remaining Balance: Rs. 4000.00
+
+========================================
+             ACCOUNT MENU
+========================================
+1. Deposit Money
+2. Withdraw Money
+3. Balance Enquiry
+4. Transfer Money
+5. Transaction History
+6. Account Details
+7. Logout
+Enter choice: 4
+
+========== TRANSFER MONEY ==========
+Enter receiver account number: 1002
+Enter amount to transfer: 1000
+
+Transfer successful!
+Transferred: Rs. 1000.00
+Receiver Account: 1002
+
+========================================
+             ACCOUNT MENU
+========================================
+1. Deposit Money
+2. Withdraw Money
+3. Balance Enquiry
+4. Transfer Money
+5. Transaction History
+6. Account Details
+7. Logout
+Enter choice: 6
+
+========== ACCOUNT DETAILS ==========
+Account Number : 1001
+Account Holder : saquib Ahmad
+Balance        : Rs. 3000.00
+
+========================================
+             ACCOUNT MENU
+========================================
+1. Deposit Money
+2. Withdraw Money
+3. Balance Enquiry
+4. Transfer Money
+5. Transaction History
+6. Account Details
+7. Logout
+Enter choice: 7
+
+Logged out successfully.
+
+========================================
+          BANKING SYSTEM
+========================================
+1. Create Account
+2. Login
+3. Exit
+Enter choice: 2
+
+============== LOGIN ==============
+Enter Account Number: 1002
+Enter PIN: 8080
+
+Login successful!
+Welcome, Waris ahmad!
+
+========================================
+             ACCOUNT MENU
+========================================
+1. Deposit Money
+2. Withdraw Money
+3. Balance Enquiry
+4. Transfer Money
+5. Transaction History
+6. Account Details
+7. Logout
+Enter choice: 3
+
+========== BALANCE ENQUIRY ==========
+Account Number : 1002
+Account Holder : Waris ahmad
+Current Balance: Rs. 1000.00
+
+========================================
+             ACCOUNT MENU
+========================================
+1. Deposit Money
+2. Withdraw Money
+3. Balance Enquiry
+4. Transfer Money
+5. Transaction History
+6. Account Details
+7. Logout
+Enter choice: 7
+
+Logged out successfully.
+
+========================================
+          BANKING SYSTEM
+========================================
+1. Create Account
+2. Login
+3. Exit
+Enter choice: 
