@@ -1,3 +1,4 @@
+ <img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/1cc2447a-555e-4a8f-b3cf-3191c1fd91da" />
 # CodeAlpha C++ Internship
 
 This repository contains all the projects and tasks completed during my **C++ Internship at CodeAlpha**.
