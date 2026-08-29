@@ -82,17 +82,14 @@ A console-based banking application developed in C++ that provides basic banking
 ## Repository Structure
 ```text
 CodeAlpha_Cpp_Internship/
-│
-├── Task_1_CGPA_Calculator/
-│   └── cgpa_calculator.cpp
-│
-├── Task_2_Login_Registration_System/
-│   └── login_registration.cpp
-│
-├── Task_3_Sudoku_Solver/
-│   └── sudoku_solver.cpp
-│
-├── Task_4_Banking_System/
-│   └── banking_system.cpp
-│
-└── README.md
+├── Task_1_CGPA_Calculator.cpp
+├── Task_2_Login_&_Registration.cpp
+├── Task_3_Sudoku_Solver.cpp
+├── Task_4_Banking_System.cpp
+├── banking
+├── cgpa
+├── login
+├── sudoku
+├── README.md
+├── LICENSE
+└── .gitignore
